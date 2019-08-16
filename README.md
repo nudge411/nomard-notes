@@ -1,0 +1,2 @@
+# nomard-notes
+    sayGoodbye: () => "Goodbye"
